@@ -62,4 +62,4 @@ if( function_exists('acf_add_options_page') ) {
     
 }
 
-require_once get_template_directory() . '/inc/blocks.php';
+// require_once get_template_directory() . '/inc/blocks.php';
